@@ -16,26 +16,27 @@ A **Java-based** system to efficiently manage intern registrations, assignments,
 
 ## 🚀 **Setup & Installation**  
 
-1️⃣ **Clone the repository** 🖥  
+*1* **Clone the repository** 🖥  
 ```bash
 git clone https://github.com/chandrasagarcm/java_InternshipManagement.git
 cd java_InternshipManagement
+```
+Setup Database 🗄
 
-2️⃣ Setup Database 🗄
-
-Create a MySQL/PostgreSQL database
-Update application.properties with your DB credentials
-3️⃣ Run the application ⚡
-
+*2* Create a MySQL/PostgreSQL database
+  Update application.
+  Properties with your DB credentials
+*3* Run the application ⚡
+```bash
 mvn spring-boot:run
-🏆 How It Works?
-1️⃣ Admins 👨‍💻👩‍💻
+```
 
+🏆 How It Works?
+👨‍💻 Admins
 Register new interns
 Assign & monitor tasks
 Provide feedback & approvals
-2️⃣ Interns 🎓
-
+🎓 Interns
 View & complete assignments
 Submit reports & updates
 Receive feedback & track progress
@@ -43,5 +44,7 @@ Receive feedback & track progress
 🚀 Automated Report Generation 📊
 🚀 AI-based Intern Performance Analytics 🤖
 🚀 Mobile App Support 📱
-
 🔥 Built with ❤️ & Java 🖥🚀
+```bash
+
+You can copy it in one go now! 🚀🔥
