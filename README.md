@@ -23,28 +23,33 @@ cd java_InternshipManagement
 ```
 Setup Database 🗄
 
-*2* Create a MySQL/PostgreSQL database
-  Update application.
-  Properties with your DB credentials
+*2* Create a MySQL/PostgreSQL database  
+    Update application.  
+    Properties with your DB credentials  
+      
 *3* Run the application ⚡
 ```bash
 mvn spring-boot:run
 ```
 
-🏆 How It Works?  
+**🏆 How It Works?**  
+  
 👨‍💻 Admins  
 Register new interns  
 Assign & monitor tasks  
 Provide feedback & approvals  
+  
 🎓 Interns  
 View & complete assignments  
 Submit reports & updates  
 Receive feedback & track progress  
+  
 🎯 Future Enhancements  
 🚀 Automated Report Generation 📊  
 🚀 AI-based Intern Performance Analytics 🤖  
 🚀 Mobile App Support 📱  
 🔥 Built with ❤️ & Java 🖥🚀  
+  
 ```bash  
 
 You can copy it in one go now! 🚀🔥
