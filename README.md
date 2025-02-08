@@ -31,20 +31,20 @@ Setup Database 🗄
 mvn spring-boot:run
 ```
 
-🏆 How It Works?
-👨‍💻 Admins
-Register new interns
-Assign & monitor tasks
-Provide feedback & approvals
-🎓 Interns
-View & complete assignments
-Submit reports & updates
-Receive feedback & track progress
-🎯 Future Enhancements
-🚀 Automated Report Generation 📊
-🚀 AI-based Intern Performance Analytics 🤖
-🚀 Mobile App Support 📱
-🔥 Built with ❤️ & Java 🖥🚀
-```bash
+🏆 How It Works?  
+👨‍💻 Admins  
+Register new interns  
+Assign & monitor tasks  
+Provide feedback & approvals  
+🎓 Interns  
+View & complete assignments  
+Submit reports & updates  
+Receive feedback & track progress  
+🎯 Future Enhancements  
+🚀 Automated Report Generation 📊  
+🚀 AI-based Intern Performance Analytics 🤖  
+🚀 Mobile App Support 📱  
+🔥 Built with ❤️ & Java 🖥🚀  
+```bash  
 
 You can copy it in one go now! 🚀🔥
